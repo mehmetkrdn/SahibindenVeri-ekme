@@ -27,7 +27,7 @@ Bu proje, [sahibinden.com](https://www.sahibinden.com) üzerindeki **"İstanbul 
 ```bash
 pip install selenium undetected-chromedriver
 python scrape_sahibinden.py
-
+```bash
 
 Sahibinden.com, bot erişimlerini kısıtlayabilir. Bu yüzden undetected_chromedriver kullanılır.
 
