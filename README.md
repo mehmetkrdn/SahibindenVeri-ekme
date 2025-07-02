@@ -22,16 +22,10 @@ Bu proje, [sahibinden.com](https://www.sahibinden.com) üzerindeki **"İstanbul 
 
 ## ▶️ Nasıl Kullanılır?
 
+
 ### 1. Gerekli Kurulumlar
 
 ```bash
 pip install selenium undetected-chromedriver
 python scrape_sahibinden.py
-```bash
-
-Sahibinden.com, bot erişimlerini kısıtlayabilir. Bu yüzden undetected_chromedriver kullanılır.
-
-Aşırı sorgulama IP’nizin geçici olarak engellenmesine sebep olabilir. Gecikmeleri ve sayfa sayısını ihtiyacınıza göre ayarlayın.
-
-Ticari olmayan, sadece eğitimsel ve kişisel kullanım içindir.
 
